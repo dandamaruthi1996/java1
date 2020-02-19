@@ -13,6 +13,8 @@ import com.irctc.booking.repositary.UserRepository;
 @RequestMapping("/")
 public class ApplicationController {
 
+	
+	
 	@Autowired
 	UserRepository repository;
 	
